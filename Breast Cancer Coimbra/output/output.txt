@@ -1,0 +1,6 @@
+Accuracy: 0.7916666666666666
+Precision (Cancer): 0.7333333333333333
+Recall (Cancer): 0.9166666666666666
+F1-Score (Cancer): 0.8148148148148148
+Best Parameters: {'colsample_bytree': 1.0, 'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 200, 'subsample': 1.0}
+Best Score (Balanced Accuracy): 0.6525000000000001
