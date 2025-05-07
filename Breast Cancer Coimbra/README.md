@@ -19,9 +19,9 @@ BreastCancerSense predicts breast cancer using clinical data to aid early detect
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `xgboost`, `matplotlib`, `streamlit`
 
 ## How to Run
-1. Navigate to the `code` directory: cd "Breast Cancer Coimbra/code"
-2. Train the model:python3 train_model.py
-3. Run the app: streamlit run predict_ui.py
+1. Navigate to the `code` directory:  cd "Breast Cancer Coimbra/code"
+2. Train the model:  python3 train_model.py
+3. Run the app:   streamlit run predict_ui.py
 
 
 ## Directory Structure
